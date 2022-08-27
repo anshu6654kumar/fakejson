@@ -11,6 +11,24 @@
             "price": "13.95",
              "desc": "Daiya vegan mozzarella, paired with fresh veggies",
             "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbGq-SD9mFvOmph3W64L4rwBv6iNwyN9TdrA&usqp=CAU "
+        },
+        {
+            "name": "Veggie Zupreme",
+            "price": "13.95",
+             "desc": "Daiya vegan mozzarella, paired with fresh veggies",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbGq-SD9mFvOmph3W64L4rwBv6iNwyN9TdrA&usqp=CAU "
+        },
+        {
+            "name": "Veggie Zupreme",
+            "price": "13.95",
+             "desc": "Daiya vegan mozzarella, paired with fresh veggies",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbGq-SD9mFvOmph3W64L4rwBv6iNwyN9TdrA&usqp=CAU "
+        },
+        {
+            "name": "Veggie Zupreme",
+            "price": "13.95",
+             "desc": "Daiya vegan mozzarella, paired with fresh veggies",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbGq-SD9mFvOmph3W64L4rwBv6iNwyN9TdrA&usqp=CAU "
         }
     ],
     "burger":[
@@ -25,6 +43,24 @@
             "price":"54",
             "desc":"lorezvfdgdf",
             "img":"https://burgerking-image.s3.amazonaws.com/products/Home/web/2x_web_20220613104743347112_262x360jpg"
+        },
+        {
+            "name":" non-veg burger",
+            "price":"54",
+            "desc":"lorezvfdgdf",
+            "img":"https://burgerking-image.s3.amazonaws.com/products/Home/web/2x_web_20220613104743347112_262x360jpg"
+        },
+        {
+            "name":" non-veg burger",
+            "price":"54",
+            "desc":"lorezvfdgdf",
+            "img":"https://burgerking-image.s3.amazonaws.com/products/Home/web/2x_web_20220613104743347112_262x360jpg"
+        },
+        {
+            "name":" non-veg burger",
+            "price":"54",
+            "desc":"lorezvfdgdf",
+            "img":"https://burgerking-image.s3.amazonaws.com/products/Home/web/2x_web_20220613104743347112_262x360jpg"
         }
     ],
     "drinks":[
@@ -33,6 +69,30 @@
             "price":"125",
             "desc":"soft drink",
             "img":"https://www.bigbasket.com/media/uploads/p/xxl/276214-8_1-sprite-soft-drink-lime-flavoured.jpg"
+        },
+        {
+            "name":"coke",
+            "price":"125",
+            "desc":"soft drink",
+            "img":"https://www.bigbasket.com/media/uploads/p/m/251014_12-thums-up-soft-drink.jpg"
+        },
+        {
+            "name":"coke",
+            "price":"125",
+            "desc":"soft drink",
+            "img":"https://www.bigbasket.com/media/uploads/p/m/251014_12-thums-up-soft-drink.jpg"
+        },
+        {
+            "name":"coke",
+            "price":"125",
+            "desc":"soft drink",
+            "img":"https://www.bigbasket.com/media/uploads/p/m/251014_12-thums-up-soft-drink.jpg"
+        },
+        {
+            "name":"coke",
+            "price":"125",
+            "desc":"soft drink",
+            "img":"https://www.bigbasket.com/media/uploads/p/m/251014_12-thums-up-soft-drink.jpg"
         },
         {
             "name":"coke",
